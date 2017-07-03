@@ -1,5 +1,6 @@
 {
   "name": "gumga-populate-ng",
+  "version": "1.0.0",
   "description": "Gumga Populate",
   "main": "./src/populate.js",
   "authors": [
